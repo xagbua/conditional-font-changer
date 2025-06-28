@@ -1,4 +1,4 @@
-# Improved Font Changer for Google Chrome
+# Improved Font Changer for Chromium
 
 ## What is this?
 
